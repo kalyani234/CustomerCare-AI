@@ -177,6 +177,8 @@ Example test scenarios:
 ## 7. Quality Evaluation Dashboard
 
 The Streamlit dashboard provides a visual representation of AI quality evaluation results.
+<img width="1408" height="448" alt="image" src="https://github.com/user-attachments/assets/4017f630-b0c6-4279-b91f-706f8fdb6865" />
+
 
 It supports reviewing:
 
@@ -185,6 +187,8 @@ It supports reviewing:
 - Hallucination evaluation results.
 - Test execution results.
 - Overall quality assessment.
+<img width="1139" height="514" alt="image" src="https://github.com/user-attachments/assets/b21bd54f-ccd7-48de-9bf9-d977a2802fc3" />
+
 
 ### Quality Report
 
