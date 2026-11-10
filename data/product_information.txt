@@ -1,0 +1,17 @@
+PRODUCT INFORMATION
+
+1. Product categories include electronics, home appliances, clothing, and accessories.
+
+2. Electronics include headphones, keyboards, computer mice, and speakers.
+
+3. Home appliances include kettles, toasters, and coffee makers.
+
+4. Clothing products are available in different sizes: Small, Medium, Large, and Extra Large.
+
+5. Product prices and availability may change depending on stock levels.
+
+6. Customers can check product availability on the product listing page.
+
+7. All products include a product description, price, and available specifications.
+
+8. Customers can contact support if they receive a damaged or incorrect product.

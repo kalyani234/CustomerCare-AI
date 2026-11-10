@@ -1,0 +1,38 @@
+{
+    "timestamp": "2026-11-09T21:43:58.705944",
+    "total_scenarios": 1,
+    "total_metric_checks": 3,
+    "passed_metric_checks": 3,
+    "failed_metric_checks": 0,
+    "overall_pass_rate": 1.0,
+    "test_results": [
+        {
+            "test_number": 1,
+            "question": "Can I change my delivery address after my order has been dispatched?",
+            "chatbot_answer": "You can request an order change only before the order has been dispatched. Once the order has been dispatched, the delivery address cannot be changed. If you need assistance, please contact customer support with your order number.",
+            "evaluation_results": [
+                {
+                    "metric": "AnswerRelevancyMetric",
+                    "score": 1.0,
+                    "threshold": 0.7,
+                    "reason": "The score is 1.00 because the response fully answered the question with no irrelevant statements.",
+                    "status": "PASS"
+                },
+                {
+                    "metric": "FaithfulnessMetric",
+                    "score": 1.0,
+                    "threshold": 0.7,
+                    "reason": "The score is 1.00 because there are no contradictions, indicating perfect faithfulness to the retrieval context.",
+                    "status": "PASS"
+                },
+                {
+                    "metric": "HallucinationMetric",
+                    "score": 1.0,
+                    "threshold": 0.7,
+                    "reason": "The score is 1.00 because the actual output fully aligns with the provided contexts, with all statements matching the FAQ and delivery policy and no contradictions present.",
+                    "status": "PASS"
+                }
+            ]
+        }
+    ]
+}
