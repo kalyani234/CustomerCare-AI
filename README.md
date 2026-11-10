@@ -207,6 +207,8 @@ ui/evaluation_dashboard.py
 ## 8. Example Evaluation Scenario
 
 **Customer question:**
+<img width="1193" height="623" alt="Screenshot 2026-11-09 at 7 32 21 PM" src="https://github.com/user-attachments/assets/7e6fff59-9065-4de3-9caf-4f7b8509f383" />
+
 
 "Can I get a refund within 30 days?"
 
